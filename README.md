@@ -7,7 +7,10 @@
 
 • Over 5 years of experience in teaching English
 
-- 📫 How to reach me ...
+- 📫 How to reach me:  
+https://www.linkedin.com/in/ali-fathi-vafegh-84bb0a274/
+
+alivafegh@gmail.com
 
 <!---
 ShamsAli-fathi/ShamsAli-fathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
