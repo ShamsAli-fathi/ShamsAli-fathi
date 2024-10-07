@@ -2,7 +2,6 @@
 - 👀 I am a "Data" and "Computer Networking" enthusiast.
 <!--- 🌱 I’m currently learning Blockchain-web3 --->
 - ✨ Student of Iran University of Science and Technology
-• Have experience in programming using C, Python and Pandas Library
 
 • Over 5 years of experience in teaching English
 
