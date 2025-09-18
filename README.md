@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Fathi Vafegh ( @ShamsAli-fathi )
-- 👀 I am a "Data" and "Computer Networking" enthusiast.
+- 👀 "Linux & Operating System", "Data" and "Computer Networking" enthusiast.
 <!--- 🌱 I’m currently learning Blockchain-web3 --->
 - ✨ Student of Iran University of Science and Technology
 
