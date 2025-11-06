@@ -3,8 +3,6 @@
 <!--- 🌱 I’m currently learning Blockchain-web3 --->
 - ✨ Student of Iran University of Science and Technology
 
-• Over 6 years of experience in teaching English
-
 - 📫 How to reach me:  
 https://www.linkedin.com/in/ali-fathi-vafegh-84bb0a274/
 
