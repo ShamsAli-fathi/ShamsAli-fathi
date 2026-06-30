@@ -4,12 +4,13 @@
 - ✨ Master's graduate from Iran University of Science and Technology (IUST)
 - 💡 Ph.D. student at Polytechnique Montréal
 
-- 📫 How to reach me:  
-https://www.linkedin.com/in/ali-fathi-vafegh-84bb0a274/
+- 📫 How to reach me:
 alivafegh@gmail.com
 ali.fathi-vafegh@etud.polymtl.ca
 
 
+LinkedIn:
+https://www.linkedin.com/in/ali-fathi-vafegh-84bb0a274/
 
 <!---
 ShamsAli-fathi/ShamsAli-fathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
