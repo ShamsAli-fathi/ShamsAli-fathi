@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ali Fathi Vafegh ( @ShamsAli-fathi )
-- 👀 "Linux & Operating System", "Data" and "Computer Networking" enthusiast.
+- 👀 "Linux & Operating System", "AI" and "Computer Networking" enthusiast.
 <!--- 🌱 I’m currently learning Blockchain-web3 --->
 - ✨ Master's graduate from Iran University of Science and Technology (IUST)
-- 💡 Ph.D. student at Polytechnique Montréal
 
 - 📫 How to reach me:
 alivafegh@gmail.com
